@@ -1,0 +1,66 @@
+## Interface: 16001, 120000, 120001, 120005, 120007, 120100, 120105
+## Title: |cfffac076EUI|r AddonSkins
+## IconTexture: Interface\AddOns\EUIAddonSkins\Media\Icon.tga
+## Notes: EllesmereUI skins for World of Warcraft addons.
+## Author: Smarre
+## X-License: MIT
+## X-Wago-ID: aN0a2M6j
+## Version: 1.6.7
+## Dependencies: EllesmereUI, EllesmereUIBlizzardSkin
+## SavedVariables: EUIAddonSkinsDB
+
+Core.lua
+MeterStyle.lua
+DetailsSettings.lua
+DetailsLayout.lua
+Accent.lua
+Widgets.lua
+Scoped.lua
+Menus.lua
+Loader.lua
+SettingsUI.lua
+Skins\AddonMrgl.lua
+Skins\AllTheThings.lua
+Skins\Altoholic.lua
+Skins\AngrierWorldQuests.lua
+Skins\Atlas.lua
+Skins\AtlasLootContinued.lua
+Skins\Attune.lua
+Skins\Auctionator.lua
+Skins\BtWQuests.lua
+Skins\BugSack.lua
+Skins\CraftSim.lua
+Skins\DBM.lua
+Skins\DecorVendor.lua
+Skins\Details.lua
+Skins\ForeverCompanion.lua
+Skins\ForeverDungeonJournal.lua
+Skins\Gargul.lua
+Skins\GTFO.lua
+Skins\GuildRosterManager.lua
+Skins\Guildy.lua
+Skins\HandyNotes.lua
+Skins\HekiLight.lua
+Skins\HomeBound.lua
+Skins\ItemRack.lua
+Skins\KiwiFarm.lua
+Skins\LiteMount.lua
+Skins\Myslot.lua
+Skins\NovaInstanceTracker.lua
+Skins\OneForAll.lua
+Skins\PallyPower.lua
+Skins\Pawn.lua
+Skins\PremadeGroupsFilter.lua
+Skins\QuestCompletist.lua
+Skins\Questie.lua
+Skins\RareScanner.lua
+Skins\RCLootCouncil.lua
+Skins\RXPGuides.lua
+Skins\Scrap.lua
+Skins\Simulationcraft.lua
+Skins\Spy.lua
+Skins\TalentLoadoutManager.lua
+Skins\ThreatClassic2.lua
+Skins\TwitchEmotes.lua
+Skins\WhatsTraining.lua
+Skins\WorldQuestsList.lua

@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: EUI Universal Skins
+## Notes: Extensible compatibility skins for generic addon UI elements with EllesmereUI.
+## Author: Community project
+## Version: 0.1.1
+## OptionalDeps: EllesmereUI, EllesmereUIBlizzardSkin
+## SavedVariables: EUIUniversalSkinsDB
+
+Core.lua
+Scanner.lua
+Adapters\Questie.lua
+Adapters\AceConfig.lua
+Adapters\DropdownMenus.lua
+Diagnostics.lua

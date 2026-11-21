@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: EUI Roboto Font
+## Notes: Adds the Roboto typeface to EllesmereUI through LibSharedMedia.
+## Author: ChatGPT
+## Version: 1.0.0
+## Dependencies: EllesmereUI
+
+EUIRobotoFont.lua

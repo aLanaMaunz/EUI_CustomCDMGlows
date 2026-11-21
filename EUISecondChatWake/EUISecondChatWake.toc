@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: EUI Second Chat Wake
+## Notes: Adds idle-fade mouseover wake-up to secondary chat windows in EllesmereUI.
+## Author: ChatGPT
+## Version: 1.0.0
+## Group: EllesmereUI
+## Dependencies: EllesmereUI, EllesmereUIChat
+## SavedVariables: EUISecondChatWakeDB
+
+EUISecondChatWake.lua
