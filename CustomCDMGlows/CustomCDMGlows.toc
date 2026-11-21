@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Custom CDM Glows
+## Notes: Configurable spell IDs and secret-safe Auto-Cast Shine for custom CDM spells.
+## Author: Custom addon
+## Version: 1.3.0
+## Dependencies: EllesmereUI, EllesmereUICooldownManager
+## SavedVariables: CustomCDMGlowsDB
+
+CustomCDMGlows.lua
