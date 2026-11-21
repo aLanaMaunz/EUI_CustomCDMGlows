@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: EUI CDM Custom Spell GCD Fix
+## Notes: Refreshes EllesmereUI custom spell cooldown swipes with native duration objects.
+## Author: ChatGPT
+## Version: 1.8.0
+## Dependencies: EllesmereUICooldownManager
+EUI_CDM_CustomSpellGCDFix.lua
